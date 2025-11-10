@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1117f0d-3e2d-43af-9671-f1373d7e85f4" name="Changes" comment="" />
+    <list default="true" id="f1117f0d-3e2d-43af-9671-f1373d7e85f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/maubanco.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +68,7 @@
       <updated>1762765422099</updated>
       <workItem from="1762765423100" duration="6473000" />
       <workItem from="1762785581089" duration="764000" />
-      <workItem from="1762787737263" duration="737000" />
+      <workItem from="1762787737263" duration="1062000" />
     </task>
     <servers />
   </component>
